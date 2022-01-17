@@ -40,7 +40,7 @@ First, open the apps.
 ![Screenshot_1642390273](https://user-images.githubusercontent.com/45749606/149703892-a14c867b-aefe-43d3-9add-2178bd6671bf.png)
 
 #### Then Klick Check/Save, after that click edit button
-![Screenshot_1642390273](https://user-images.githubusercontent.com/45749606/149703892-a14c867b-aefe-43d3-9add-2178bd6671bf.png)
+![Screenshot_1642390214](https://user-images.githubusercontent.com/45749606/149703814-c2c53d16-e37a-4767-bbae-0c867920d1c9.png)
 
 #### Then you can do edit of your image here
 ![Screenshot_1642390334](https://user-images.githubusercontent.com/45749606/149703958-07e3e85e-2059-4062-9204-c1a63692e161.png)
