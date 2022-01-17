@@ -1,30 +1,17 @@
-VIDEO
+# Image Painter & Image Picker
 
 https://user-images.githubusercontent.com/45749606/149704262-5f1dda2b-acf6-44ec-a243-e9e6b0ef5b84.mp4
 
-
-# Image Picker
-# Painter Image
-
-A new Flutter project to Use Painter image and Image Picker.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 ## Documentation
+### Image Painter
+Image Painter is a library to do painting in image
+https://pub.dev/packages/image_painter
 
-Library
+### Image Picker
+Image Picker is a library to pick an image from camera
+https://pub.dev/packages/image_picker
+
+### Library
 ```
 image_painter: 0.4.4+1
 open_file: 3.2.1
@@ -36,7 +23,6 @@ How To Use:
 First, open the apps.
 #### Then, Click camera button
 ![Screenshot_1642390114](https://user-images.githubusercontent.com/45749606/149703717-41832627-cc8f-439a-b627-e41aea22f162.png)
-
 
 #### Then, click camera button again
 ![Screenshot_1642390214](https://user-images.githubusercontent.com/45749606/149703814-c2c53d16-e37a-4767-bbae-0c867920d1c9.png)
